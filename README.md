@@ -18,25 +18,6 @@ Soy un QA Engineer egresado del bootcamp TripleTen, con una sólida formación e
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-Mobile%20Testing-green)
 
-
-
-
-### QA Engineer
-
-Soy un QA Engineer egresado del bootcamp TripleTen, con una sólida formación en control de calidad de software y experiencia en la creación y ejecución de casos de prueba. Estoy apasionado por asegurar la entrega de productos de alta calidad a través de pruebas rigurosas y meticulosas.
-
-
-
-## 🛠 Habilidades Técnicas
-
-- **Herramientas de Gestión:** JIRA
-- **Pruebas de API:** Postman
-- **Automatización de Pruebas:** Selenium (Python)
-- **Pruebas Móviles:** Android Studio
-- **Lenguajes de Programación:** Python
-- **Bases de Datos:** SQL
-- **Metodologías:** Agile/Scrum
-
 ## 🔬 Proyectos Destacados
 
 ### [Urban Routes - Automatización de Pruebas](https://github.com/ValerianoH/QA-Project-Urban-Routes-Es)
