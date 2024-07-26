@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Valeriano Hernández Sanhueza
 
+![Banner](https://imgur.com/a/IuORboI)
+
 ### QA Engineer
 
 Soy un QA Engineer egresado del bootcamp TripleTen, con una sólida formación en control de calidad de software y experiencia en la creación y ejecución de casos de prueba. Estoy apasionado por asegurar la entrega de productos de alta calidad a través de pruebas rigurosas y meticulosas.
