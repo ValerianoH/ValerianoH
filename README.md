@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Valeriano Hernández Sanhueza
 
-![Banner](https://imgur.com/a/IuORboI)
+![Banner](https://imgur.com/ttSwdsS)
 
 ### QA Engineer
 
