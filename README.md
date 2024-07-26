@@ -12,7 +12,7 @@ Soy un QA Engineer egresado del bootcamp TripleTen, con una sólida formación e
 
 ## 🛠 Habilidades Técnicas
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Especializado-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
 ![Postman](https://img.shields.io/badge/Postman-API-orange)
 ![JIRA](https://img.shields.io/badge/JIRA-Project%20Management-yellow)
