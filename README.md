@@ -4,15 +4,14 @@
 
 ### QA Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/valeriano-hernández/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/ValerianoH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/valeriano-hern%C3%A1ndez-sanhueza/)
 [![Email](https://img.shields.io/badge/Email-v.hernsan%40gmail.com-red)](mailto:v.hernsan@gmail.com)
 
 Soy un QA Engineer egresado del bootcamp TripleTen, con una sólida formación en control de calidad de software y experiencia en la creación y ejecución de casos de prueba. Estoy apasionado por asegurar la entrega de productos de alta calidad a través de pruebas rigurosas y meticulosas.
 
 ## 🛠 Habilidades Técnicas
 
-![Python](https://img.shields.io/badge/Python-Especializado-blue)
+![Python](https://img.shields.io/badge/Python-Programming-Language-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
 ![Postman](https://img.shields.io/badge/Postman-API-orange)
 ![JIRA](https://img.shields.io/badge/JIRA-Project%20Management-yellow)
