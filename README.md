@@ -33,16 +33,16 @@
 
 ## 🔬 Proyectos Destacados 🔬
 
-### [Urban Routes - Automatización de Pruebas](https://github.com/ValerianoH/QA-Project-Urban-Routes-Es) 🌐
+### [Optimización de rendimiento y calidad en aplicaciones web mediante automatización - Urban Routes](https://github.com/ValerianoH/QA-Project-Urban-Routes-Es) 🌐
 Automatización de pruebas web utilizando Selenium WebDriver en Python. Elaboración y ejecución de pruebas con Pytest y verificación mediante solicitudes HTTP con la librería Request.
 
-### [Urban Lunch y Urban Scooter - Pruebas Móviles] 📱
+### [Mejora de funcionalidad en aplicaciones móviles mediante pruebas exhaustivas - Urban Lunch y Urban Scooter] 📱
 Pruebas funcionales, no funcionales y de diseño en diferentes entornos con Android Studio. Conexiones a servidores remotos mediante SSH para el manejo de bases de datos con SQL.
 
-### [Urban Grocers y Urban Scooter - Pruebas API](https://github.com/ValerianoH/QA-Project-Urban-Grocers-App-Es) 🔗
+### [Optimización de la funcionalidad de APIs mediante pruebas detalladas - Urban Grocers](https://github.com/ValerianoH/QA-Project-Urban-Grocers-App-Es) 🔗
 Elaboración de listas de comprobación para la validación de funcionalidad de las API con POSTMAN. Aplicación de clases de equivalencia y valores límites para las pruebas.
 
-### [Urban Routes y Urban Scooter - Pruebas Web] 🌍
+### [Validación de aplicaciónes Web - Urban Routes y Urban Scooter] 🌍
 Identificación de errores utilizando Devtools en diferentes entornos. Elaboración y ejecución de pruebas funcionales, no funcionales, UI y regresión. Reporte de errores en JIRA.
 
 ## 📫 Contáctame 📫
