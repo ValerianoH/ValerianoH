@@ -49,7 +49,7 @@ Identificación de errores utilizando Devtools en diferentes entornos. Elaboraci
 
 - 📧 **Email:** [v.hernsan@gmail.com](mailto:v.hernsan@gmail.com) 📧
 - 💼 **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-Valeriano-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriano-alfonso-hern%C3%A1ndez-sanhueza-611912200/) 💼
-- 📞 **Teléfono:** +56 9 50613166 📞
+- 📞 **Teléfono:** +56 9 83249546 📞
 
 ## 🌱 En constante aprendizaje 🌱
 
