@@ -1,4 +1,4 @@
-![](/Banner.png) 
+![](/Banner.jpg) 
 
 # 👋 ¡Hola! Soy Valeriano Hernández Sanhueza
 
